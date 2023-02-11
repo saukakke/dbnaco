@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+	xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<item
+		android:title="Add Comrade"
+		android:id="@+id/add"/>
+	
+	<item
+		android:title="Update Record"
+		android:id="@+id/update"/>
+	
+	<item
+		android:title="View All Records"
+		android:id="@+id/view"/>
+	
+	<item
+		android:title="Search Record"
+		android:id="@+id/search"/>
+	
+	<item
+		android:title="Delete Record"
+		android:id="@+id/delete"/>
+	
+	<item
+		android:title="Logout"
+		android:id="@+id/logout"/>
+</menu>
+
